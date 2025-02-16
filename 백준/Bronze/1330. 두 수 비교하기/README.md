@@ -31,4 +31,8 @@
 	<li>A가 B보다 작은 경우에는 '<code><</code>'를 출력한다.</li>
 	<li>A와 B가 같은 경우에는 '<code>==</code>'를 출력한다.</li>
 </ul>
+		
+<img width="1149" alt="스크린샷 2025-02-17 오전 12 20 39" src="https://github.com/user-attachments/assets/d5a2d82d-da9a-4ab5-ad6a-9e51573dc8f3" />
+
+
 
